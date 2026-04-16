@@ -4,7 +4,8 @@ This mod adds the 26 English letters to minecraft, 10 numbers and capacibility t
 
 **Get it on:**
 
-<img width="213" height="148" alt="image" src="https://github.com/user-attachments/assets/4cf7d238-52d7-49ef-893d-21d45c54e5dd" href="https://legacy.curseforge.com/minecraft/mc-mods/funky-wordle" />
+[![image](https://cdn-1.webcatalog.io/catalog/curseforge/curseforge-icon-filled-256.png?v=1751860928168)](https://legacy.curseforge.com/minecraft/mc-mods/funky-wordle)
+
 
 ## Blocks in the mod
 - 26 English Letters
